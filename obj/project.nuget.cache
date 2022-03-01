@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sej/fDSVQw8e9uXj/x2IMO82wgwbJo/mCR4kDSgPuxHKmPm3MiM/7V0BnQ1SteaRypdFAgiVV9S0pp2fJux+Zw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\georg\\Escritorio\\dotNET-MDP\\RetoMDPFINAL\\RetoMDPFINAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
